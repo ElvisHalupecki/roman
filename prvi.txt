@@ -4,4 +4,4 @@ ovo je prica o romanu, koji je isao u sumu.
 u sumi je sreo vuka.
 i onda je crvenkapica pojela vuka.
 
-d end.
+ end.
